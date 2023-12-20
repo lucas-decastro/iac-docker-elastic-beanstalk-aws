@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     bucket = "terrafom-state-lucas"
-    key    = "PRD/terraform.tfstate"
+    key    = "HML/terraform.tfstate"
     region = "us-east-2"
   }
 }
