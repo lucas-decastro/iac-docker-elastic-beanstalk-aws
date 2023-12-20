@@ -1,6 +1,6 @@
 ### 🚀 Projeto: Infraestrutura como Código com Docker e AWS
 
-![](images/docker-aws.png)
+![](images/docker-aws-elastic.png)
 
 # 📋 Resumo do Projeto
 
