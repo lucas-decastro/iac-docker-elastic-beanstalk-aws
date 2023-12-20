@@ -1,4 +1,4 @@
-### 🚀 Projeto: Infraestrutura como Código com Docker e AWS
+### 🚀 Projeto: Infraestrutura como Código - Docker e Elastic Beanstalk na AWS
 
 ![](images/docker-aws-elastic.png)
 
