@@ -36,9 +36,9 @@ Este projeto explora:
 3. Caso tenha baixado o ZIP, extraia-o antes de abrir.
 4. Abra a pasta do projeto no VSC.
 5. Abra um terminal (pode ser o integrado no VSC).
-6. Navegue até `infra/`, `env/Prod` e `env/homolog`.
+6. Navegue até `infra/`, `env/PRD` e `env/HML`.
 7. Execute `terraform init` em cada pasta.
-8. Para criar a infraestrutura, execute `terraform apply` na pasta desejada (`env/Prod` ou `env/homolog`).
+8. Para criar a infraestrutura, execute `terraform apply` na pasta desejada (`env/PRD` ou `env/HML`).
 9. Atualize o ambiente AWS com:
    - Produção: `aws elasticbeanstalk update-environment --environment-name ambiente-de-producao --version-label ambiente-de-producao`
    - Homologação: `aws elasticbeanstalk update-environment --environment-name ambiente-de-homolog --version-label ambiente-de-homolog`
